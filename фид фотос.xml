@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<price>
+    <currencies>
+        <currency id="USD" rate="40.5"/>
+    </currencies>
+    <categories>
+        <category id="1">Видеокарты</category>
+    </categories>
+    <items>
+        <item>
+            <categoryId>1</categoryId>
+            <art>11256-10-8G</art>
+            <vendor>Sapphire</vendor>
+            <name>RX 470 8GB Sapphire Nitro</name>
+            <price>4715</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>6</amount>
+            <image>https://hotline.ua/img/tx/121/1214706965.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">7000</param>
+            <param name="Тип памяти">GDDR5</param>
+            <param name="Минимальная рекомендованная мощность блока питания">500Вт</param>         
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>     
+        <item>
+            <categoryId>1</categoryId>
+            <art>RX-580P8DBD6</art>
+            <vendor>XFX</vendor>
+            <name>RX 580 8GB XFX GTS Black Edition</name>
+            <price>5100</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>6</amount>
+            <image>https://content2.rozetka.com.ua/goods/images/big/264606699.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GDDR5</param>
+            <param name="Минимальная рекомендованная мощность блока питания">500Вт</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>   
+   		<item>
+            <categoryId>1</categoryId>
+            <art>NE51070015P2-1043D</art>			
+            <vendor>Palit</vendor>
+            <name>GTX 1070 8GB Palit Dual</name>
+            <price>6</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>4</amount>
+            <image>https://content1.rozetka.com.ua/goods/images/big/65297872.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">8000</param>
+            <param name="Тип памяти">GDDR5</param>
+            <param name="Минимальная рекомендованная мощность блока питания">500Вт</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item> 
+		    <item>
+            <categoryId>1</categoryId>
+            <art>RX5600XT-CLD-6G</art>
+            <vendor>ASRock</vendor>
+            <name>RX 5600 XT 6GB ASRock Challenger OEM</name>
+            <price>8810</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>5</amount>
+            <image>https://hotline.ua/img/tx/235/2356970125.jpg</image>         
+            <warranty official="false">3</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">6ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">14000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Минимальная рекомендованная мощность блока питания">550Вт</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+	    <item>
+            <categoryId>1</categoryId>
+            <art>DUAL-RX5700-O8G-EVO</art>
+            <vendor>Asus</vendor>
+            <name>RX 5700 8GB ASUS DUAL EVO OC</name>
+            <price>10070</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>13</amount>
+            <image>https://hotline.ua/img/tx/238/2382087695.jpg</image>         
+            <warranty official="false">12</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">14000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Минимальная рекомендованная мощность блока питания">600Вт</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>1</categoryId>
+            <art>M206S2-08D6-1710VA15L</art>
+            <vendor>Inno3D</vendor>
+            <name>RTX 2060 Super 8GB Inno3D Twin X2</name>
+            <price>11960</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>10</amount>
+            <image>https://i.can.ua/images/700x700/goods/9809/9809484.jpg</image>         
+            <warranty official="false">12</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">14000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Минимальная рекомендованная мощность блока питания">550Вт</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>1</categoryId>
+            <art>NE63060T19K9-190AD</art>
+            <vendor>Palit</vendor>
+            <name>RTX 3060 12GB Palit Dual</name>
+            <price>14700</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>5</amount>
+            <image>https://hotline.ua/img/tx/271/2719623345.jpg</image>         
+            <warranty official="false">12</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">12ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">15000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Минимальная рекомендованная мощность блока питания">550Вт</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>1</categoryId>
+            <art>RTX-3070-8GB-SUPRIM-X</art>
+            <vendor>MSI</vendor>
+            <name>RTX 3070 8GB MSI Suprim X</name>
+            <price>21735</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>2</amount>
+            <image>https://hotline.ua/img/tx/243/2435076445.jpg</image>         
+            <warranty official="false">12</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">14000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Минимальная рекомендованная мощность блока питания">750Вт</param>         
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>1</categoryId>
+            <art>N30702-08D6-1710VA32L</art>
+            <vendor>Inno3D</vendor>
+            <name>RTX 3070 8GB Inno3D Twin X2</name>
+            <price>20895</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>2</amount>
+            <image>https://s.ek.ua/jpg_zoom1/1897736.jpg</image>         
+            <warranty official="false">12</warranty>                       
+            <param name="Шина">256</param>
+            <param name="Объем памяти">8ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">10000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Минимальная рекомендованная мощность блока питания">650Вт</param>          
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+		<item>
+            <categoryId>1</categoryId>
+            <art>12G-P5-3657-KR</art>
+            <vendor>EVGA</vendor>
+            <name>RTX 3060 12GB EVGA XC GAMING</name>
+            <price>15005</price>
+            <priceCurrency>UAH</priceCurrency>
+            <amount>2</amount>
+            <image>https://hotline.ua/img/tx/276/2765503115.jpg</image>         
+            <warranty official="false">12</warranty>                       
+            <param name="Шина">192</param>
+            <param name="Объем памяти">12ГБ</param>
+			<param name="Частота памяти"  unit="Мгц">15000</param>
+            <param name="Тип памяти">GDDR6</param>
+            <param name="Минимальная рекомендованная мощность блока питания">550Вт</param>         
+            <delivery method="NP" type="office" where="По Украине" name="Новая Почта"></delivery>
+            <length unit="см">41</length>
+            <width unit="см">24</width>
+            <height unit="см">10</height>
+            <weight unit="кг">2</weight>
+        </item>
+    </items>
+</price>
